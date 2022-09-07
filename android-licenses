@@ -1,0 +1,22 @@
+Doctor summary (to see all details, run flutter doctor -v):
+[√] Flutter (Channel stable, 2.10.4, on Microsoft Windows [Version 10.0.19044.1620], locale en-US)
+[!] Android toolchain - develop for Android devices (Android SDK version 32.1.0-rc1)
+    X cmdline-tools component is missing
+      Run `path/to/sdkmanager --install "cmdline-tools;latest"`
+      See https://developer.android.com/studio/command-line for more details.
+    X Android license status unknown.
+      Run `flutter doctor --android-licenses` to accept the SDK licenses.
+      See https://flutter.dev/docs/get-started/install/windows#android-setup for more details.
+[√] Chrome - develop for the web
+[X] Visual Studio - develop for Windows
+    X Visual Studio not installed; this is necessary for Windows development.
+      Download at https://visualstudio.microsoft.com/downloads/.
+      Please install the "Desktop development with C++" workload, including all of its default components
+[√] Android Studio (version 2021.1)
+[☠] IntelliJ IDEA Community Edition (the doctor check crashed)
+    X Due to an error, the doctor check did not complete. If the error message below is not helpful, please let us know about this issue at https://github.com/flutter/flutter/issues.
+    X FormatException: Unexpected extension byte (at offset 5)
+[√] Connected device (4 available)
+[√] HTTP Host Availability
+
+! Doctor found issues in 3 categories.
